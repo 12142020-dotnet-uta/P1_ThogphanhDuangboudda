@@ -1,0 +1,11 @@
+C:\Users\tongp\Documents\Revature\ThongphanhDuangbouddaRepo1\P1_ThongphanhDuangboudda\ModelLayer\bin\Debug\netcoreapp3.1\ModelLayer.deps.json
+C:\Users\tongp\Documents\Revature\ThongphanhDuangbouddaRepo1\P1_ThongphanhDuangboudda\ModelLayer\bin\Debug\netcoreapp3.1\ModelLayer.runtimeconfig.json
+C:\Users\tongp\Documents\Revature\ThongphanhDuangbouddaRepo1\P1_ThongphanhDuangboudda\ModelLayer\bin\Debug\netcoreapp3.1\ModelLayer.runtimeconfig.dev.json
+C:\Users\tongp\Documents\Revature\ThongphanhDuangbouddaRepo1\P1_ThongphanhDuangboudda\ModelLayer\bin\Debug\netcoreapp3.1\ModelLayer.dll
+C:\Users\tongp\Documents\Revature\ThongphanhDuangbouddaRepo1\P1_ThongphanhDuangboudda\ModelLayer\bin\Debug\netcoreapp3.1\ModelLayer.pdb
+C:\Users\tongp\Documents\Revature\ThongphanhDuangbouddaRepo1\P1_ThongphanhDuangboudda\ModelLayer\obj\Debug\netcoreapp3.1\ModelLayer.AssemblyInfoInputs.cache
+C:\Users\tongp\Documents\Revature\ThongphanhDuangbouddaRepo1\P1_ThongphanhDuangboudda\ModelLayer\obj\Debug\netcoreapp3.1\ModelLayer.AssemblyInfo.cs
+C:\Users\tongp\Documents\Revature\ThongphanhDuangbouddaRepo1\P1_ThongphanhDuangboudda\ModelLayer\obj\Debug\netcoreapp3.1\ModelLayer.csproj.CoreCompileInputs.cache
+C:\Users\tongp\Documents\Revature\ThongphanhDuangbouddaRepo1\P1_ThongphanhDuangboudda\ModelLayer\obj\Debug\netcoreapp3.1\ModelLayer.dll
+C:\Users\tongp\Documents\Revature\ThongphanhDuangbouddaRepo1\P1_ThongphanhDuangboudda\ModelLayer\obj\Debug\netcoreapp3.1\ModelLayer.pdb
+C:\Users\tongp\Documents\Revature\ThongphanhDuangbouddaRepo1\P1_ThongphanhDuangboudda\ModelLayer\obj\Debug\netcoreapp3.1\ModelLayer.genruntimeconfig.cache

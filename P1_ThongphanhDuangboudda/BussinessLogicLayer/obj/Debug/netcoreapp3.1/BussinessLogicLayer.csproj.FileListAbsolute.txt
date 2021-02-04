@@ -1,0 +1,14 @@
+C:\Users\tongp\Documents\Revature\ThongphanhDuangbouddaRepo1\P1_ThongphanhDuangboudda\BussinessLogicLayer\bin\Debug\netcoreapp3.1\BussinessLogicLayer.deps.json
+C:\Users\tongp\Documents\Revature\ThongphanhDuangbouddaRepo1\P1_ThongphanhDuangboudda\BussinessLogicLayer\bin\Debug\netcoreapp3.1\BussinessLogicLayer.dll
+C:\Users\tongp\Documents\Revature\ThongphanhDuangbouddaRepo1\P1_ThongphanhDuangboudda\BussinessLogicLayer\bin\Debug\netcoreapp3.1\BussinessLogicLayer.pdb
+C:\Users\tongp\Documents\Revature\ThongphanhDuangbouddaRepo1\P1_ThongphanhDuangboudda\BussinessLogicLayer\bin\Debug\netcoreapp3.1\ModelLayer.dll
+C:\Users\tongp\Documents\Revature\ThongphanhDuangbouddaRepo1\P1_ThongphanhDuangboudda\BussinessLogicLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+C:\Users\tongp\Documents\Revature\ThongphanhDuangbouddaRepo1\P1_ThongphanhDuangboudda\BussinessLogicLayer\bin\Debug\netcoreapp3.1\ModelLayer.pdb
+C:\Users\tongp\Documents\Revature\ThongphanhDuangbouddaRepo1\P1_ThongphanhDuangboudda\BussinessLogicLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+C:\Users\tongp\Documents\Revature\ThongphanhDuangbouddaRepo1\P1_ThongphanhDuangboudda\BussinessLogicLayer\obj\Debug\netcoreapp3.1\BussinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\tongp\Documents\Revature\ThongphanhDuangbouddaRepo1\P1_ThongphanhDuangboudda\BussinessLogicLayer\obj\Debug\netcoreapp3.1\BussinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\tongp\Documents\Revature\ThongphanhDuangbouddaRepo1\P1_ThongphanhDuangboudda\BussinessLogicLayer\obj\Debug\netcoreapp3.1\BussinessLogicLayer.AssemblyInfo.cs
+C:\Users\tongp\Documents\Revature\ThongphanhDuangbouddaRepo1\P1_ThongphanhDuangboudda\BussinessLogicLayer\obj\Debug\netcoreapp3.1\BussinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\tongp\Documents\Revature\ThongphanhDuangbouddaRepo1\P1_ThongphanhDuangboudda\BussinessLogicLayer\obj\Debug\netcoreapp3.1\BussinessLogicLayer.csproj.CopyComplete
+C:\Users\tongp\Documents\Revature\ThongphanhDuangbouddaRepo1\P1_ThongphanhDuangboudda\BussinessLogicLayer\obj\Debug\netcoreapp3.1\BussinessLogicLayer.dll
+C:\Users\tongp\Documents\Revature\ThongphanhDuangbouddaRepo1\P1_ThongphanhDuangboudda\BussinessLogicLayer\obj\Debug\netcoreapp3.1\BussinessLogicLayer.pdb

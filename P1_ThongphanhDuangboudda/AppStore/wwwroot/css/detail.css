@@ -1,0 +1,50 @@
+
+
+.text-center {
+   
+    background-image: url("trollHunter.jpg");
+
+    color: white;
+    font-weight: bolder;
+    height: 200px;
+    padding-top: 60px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+#errorMessage{
+    display: inline-block;
+    color: red;
+    font-weight: bold;
+}
+#Login{
+    color: blue;
+}
+.productLink{
+    
+    display: inline-block;
+    width: 25%;
+    height: auto;
+    background-repeat: no-repeat;
+    background-size: auto;
+    
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    padding-top: 2px;
+    background-color: whitesmoke;
+    margin-bottom: 2px;
+}
+.detail{
+    width: 40%;
+    float: left;
+}
+.detailImage{
+    width: 30%;
+    height: 400px;
+    float: right;
+    background-color: aquamarine;
+}
+#firstName{
+    display: none;
+}

@@ -1,0 +1,15 @@
+C:\Users\tongp\Documents\Revature\ThongphanhDuangbouddaRepo1\P1_ThongphanhDuangboudda\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.deps.json
+C:\Users\tongp\Documents\Revature\ThongphanhDuangbouddaRepo1\P1_ThongphanhDuangboudda\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.runtimeconfig.json
+C:\Users\tongp\Documents\Revature\ThongphanhDuangbouddaRepo1\P1_ThongphanhDuangboudda\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.runtimeconfig.dev.json
+C:\Users\tongp\Documents\Revature\ThongphanhDuangbouddaRepo1\P1_ThongphanhDuangboudda\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+C:\Users\tongp\Documents\Revature\ThongphanhDuangbouddaRepo1\P1_ThongphanhDuangboudda\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+C:\Users\tongp\Documents\Revature\ThongphanhDuangbouddaRepo1\P1_ThongphanhDuangboudda\RepositoryLayer\bin\Debug\netcoreapp3.1\ModelLayer.dll
+C:\Users\tongp\Documents\Revature\ThongphanhDuangbouddaRepo1\P1_ThongphanhDuangboudda\RepositoryLayer\bin\Debug\netcoreapp3.1\ModelLayer.pdb
+C:\Users\tongp\Documents\Revature\ThongphanhDuangbouddaRepo1\P1_ThongphanhDuangboudda\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csprojAssemblyReference.cache
+C:\Users\tongp\Documents\Revature\ThongphanhDuangbouddaRepo1\P1_ThongphanhDuangboudda\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.AssemblyInfoInputs.cache
+C:\Users\tongp\Documents\Revature\ThongphanhDuangbouddaRepo1\P1_ThongphanhDuangboudda\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.AssemblyInfo.cs
+C:\Users\tongp\Documents\Revature\ThongphanhDuangbouddaRepo1\P1_ThongphanhDuangboudda\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\tongp\Documents\Revature\ThongphanhDuangbouddaRepo1\P1_ThongphanhDuangboudda\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.CopyComplete
+C:\Users\tongp\Documents\Revature\ThongphanhDuangbouddaRepo1\P1_ThongphanhDuangboudda\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.dll
+C:\Users\tongp\Documents\Revature\ThongphanhDuangbouddaRepo1\P1_ThongphanhDuangboudda\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.pdb
+C:\Users\tongp\Documents\Revature\ThongphanhDuangbouddaRepo1\P1_ThongphanhDuangboudda\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.genruntimeconfig.cache

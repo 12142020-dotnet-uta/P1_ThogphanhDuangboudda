@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YcBHeQlZkBWiQEm02Rds5YaTpEacui0S8rSVJHfNQb5pFzIrdrwRKpK7QmekV7dFfBQW+x/t9noJkqOLbPjSAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tongp\\Documents\\Revature\\ThongphanhDuangbouddaRepo1\\P1_ThongphanhDuangboudda\\UI\\UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tongp\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
