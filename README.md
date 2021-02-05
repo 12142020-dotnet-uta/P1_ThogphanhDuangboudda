@@ -31,12 +31,10 @@ To-do list:
    
 (include git clone command)
 (include all environment setup steps)
+git clone https://github.com/12142020-dotnet-uta/P1_ThogphanhDuangboudda
+cd appStore
+dotnet run
 
-> Be sure to include BOTH Windows and Unix command  
-> Be sure to mention if the commands only work on a specific platform (eg. AWS, GCP)
-
-- All the `code` required to get started
-- Images of what it should look like
 
 ## Usage
 
