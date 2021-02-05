@@ -28,9 +28,8 @@ To-do list:
 * To improve UI design
 
 ## Getting Started
-   
-(include git clone command)
-(include all environment setup steps)
+To run locally:    
+
 git clone https://github.com/12142020-dotnet-uta/P1_ThogphanhDuangboudda
 cd appStore
 dotnet run
