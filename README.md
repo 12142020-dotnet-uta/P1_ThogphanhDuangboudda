@@ -16,11 +16,11 @@ In order to place an order or view personal information, users are required to t
 
 ## Features
 
-List of features ready 
+* Users can create account
 * Sign in, sign out
 * Place order, view order histories by earliest, latest, cheapest, and by most expensive.
 * Suggesting products to users, when they login 
-* Select store they want to order
+* Select a store where they want to order
 * Checkout 
 
 To-do list:
@@ -30,18 +30,19 @@ To-do list:
 ## Getting Started
 To run locally:    
 
-git clone https://github.com/12142020-dotnet-uta/P1_ThogphanhDuangboudda
-cd appStore
-dotnet run
-
+* git clone https://github.com/12142020-dotnet-uta/P1_ThogphanhDuangboudda
+* cd appStore
+* dotnet run
+* Create an acount, then log in
+* place order, view order
+* checkout
 
 ## Usage
 
 Users can view products on the web, however if they want to make purchase, they need to sign in.Upon success log in, users can add products to cart, checkout, view personal information such as cart detail, order detail, order history.
 
 ## Contributors
-
-
+Thongphanh Duangboudda
 
 ## License
 
