@@ -208,7 +208,7 @@
           "lib/netstandard2.0/Microsoft.AspNetCore.Html.Abstractions.dll": {}
         }
       },
-      "Microsoft.AspNetCore.Http/2.2.2": {
+      "Microsoft.AspNetCore.Http/2.2.0": {
         "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore.Http.Abstractions": "2.2.0",
@@ -3379,8 +3379,6 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "Microsoft.AspNetCore.Http": "2.2.2",
-          "Microsoft.AspNetCore.Http.Extensions": "2.2.0",
           "Microsoft.EntityFrameworkCore": "5.0.1",
           "ModelLayer": "1.0.0",
           "RepositoryLayer": "1.0.0"
@@ -3644,16 +3642,16 @@
         "microsoft.aspnetcore.html.abstractions.nuspec"
       ]
     },
-    "Microsoft.AspNetCore.Http/2.2.2": {
-      "sha512": "BAibpoItxI5puk7YJbIGj95arZueM8B8M5xT1fXBn3hb3L2G3ucrZcYXv1gXdaroLbntUs8qeV8iuBrpjQsrKw==",
+    "Microsoft.AspNetCore.Http/2.2.0": {
+      "sha512": "YogBSMotWPAS/X5967pZ+yyWPQkThxhmzAwyCHCSSldzYBkW5W5d6oPfBaPqQOnSHYTpSOSOkpZoAce0vwb6+A==",
       "type": "package",
-      "path": "microsoft.aspnetcore.http/2.2.2",
+      "path": "microsoft.aspnetcore.http/2.2.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "lib/netstandard2.0/Microsoft.AspNetCore.Http.dll",
         "lib/netstandard2.0/Microsoft.AspNetCore.Http.xml",
-        "microsoft.aspnetcore.http.2.2.2.nupkg.sha512",
+        "microsoft.aspnetcore.http.2.2.0.nupkg.sha512",
         "microsoft.aspnetcore.http.nuspec"
       ]
     },
@@ -10346,11 +10344,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tongp\\Documents\\Revature\\ThongphanhDuangbouddaRepo1\\P1_ThongphanhDuangboudda\\AppStore\\AppStore.csproj",
+      "projectUniqueName": "C:\\Users\\tongp\\Documents\\Revature\\P1\\P1_ThongphanhDuangboudda\\AppStore\\AppStore.csproj",
       "projectName": "AppStore",
-      "projectPath": "C:\\Users\\tongp\\Documents\\Revature\\ThongphanhDuangbouddaRepo1\\P1_ThongphanhDuangboudda\\AppStore\\AppStore.csproj",
+      "projectPath": "C:\\Users\\tongp\\Documents\\Revature\\P1\\P1_ThongphanhDuangboudda\\AppStore\\AppStore.csproj",
       "packagesPath": "C:\\Users\\tongp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tongp\\Documents\\Revature\\ThongphanhDuangbouddaRepo1\\P1_ThongphanhDuangboudda\\AppStore\\obj\\",
+      "outputPath": "C:\\Users\\tongp\\Documents\\Revature\\P1\\P1_ThongphanhDuangboudda\\AppStore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -10371,11 +10369,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\tongp\\Documents\\Revature\\ThongphanhDuangbouddaRepo1\\P1_ThongphanhDuangboudda\\BussinessLogicLayer\\BussinessLogicLayer.csproj": {
-              "projectPath": "C:\\Users\\tongp\\Documents\\Revature\\ThongphanhDuangbouddaRepo1\\P1_ThongphanhDuangboudda\\BussinessLogicLayer\\BussinessLogicLayer.csproj"
+            "C:\\Users\\tongp\\Documents\\Revature\\P1\\P1_ThongphanhDuangboudda\\BussinessLogicLayer\\BussinessLogicLayer.csproj": {
+              "projectPath": "C:\\Users\\tongp\\Documents\\Revature\\P1\\P1_ThongphanhDuangboudda\\BussinessLogicLayer\\BussinessLogicLayer.csproj"
             },
-            "C:\\Users\\tongp\\Documents\\Revature\\ThongphanhDuangbouddaRepo1\\P1_ThongphanhDuangboudda\\ModelLayer\\ModelLayer.csproj": {
-              "projectPath": "C:\\Users\\tongp\\Documents\\Revature\\ThongphanhDuangbouddaRepo1\\P1_ThongphanhDuangboudda\\ModelLayer\\ModelLayer.csproj"
+            "C:\\Users\\tongp\\Documents\\Revature\\P1\\P1_ThongphanhDuangboudda\\ModelLayer\\ModelLayer.csproj": {
+              "projectPath": "C:\\Users\\tongp\\Documents\\Revature\\P1\\P1_ThongphanhDuangboudda\\ModelLayer\\ModelLayer.csproj"
             }
           }
         }
@@ -10445,7 +10443,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   },
