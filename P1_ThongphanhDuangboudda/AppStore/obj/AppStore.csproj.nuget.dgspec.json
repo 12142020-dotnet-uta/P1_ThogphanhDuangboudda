@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tongp\\Documents\\Revature\\ThongphanhDuangbouddaRepo1\\P1_ThongphanhDuangboudda\\AppStore\\AppStore.csproj": {}
+    "C:\\Users\\tongp\\Documents\\Revature\\P1\\P1_ThongphanhDuangboudda\\AppStore\\AppStore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tongp\\Documents\\Revature\\ThongphanhDuangbouddaRepo1\\P1_ThongphanhDuangboudda\\AppStore\\AppStore.csproj": {
+    "C:\\Users\\tongp\\Documents\\Revature\\P1\\P1_ThongphanhDuangboudda\\AppStore\\AppStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tongp\\Documents\\Revature\\ThongphanhDuangbouddaRepo1\\P1_ThongphanhDuangboudda\\AppStore\\AppStore.csproj",
+        "projectUniqueName": "C:\\Users\\tongp\\Documents\\Revature\\P1\\P1_ThongphanhDuangboudda\\AppStore\\AppStore.csproj",
         "projectName": "AppStore",
-        "projectPath": "C:\\Users\\tongp\\Documents\\Revature\\ThongphanhDuangbouddaRepo1\\P1_ThongphanhDuangboudda\\AppStore\\AppStore.csproj",
+        "projectPath": "C:\\Users\\tongp\\Documents\\Revature\\P1\\P1_ThongphanhDuangboudda\\AppStore\\AppStore.csproj",
         "packagesPath": "C:\\Users\\tongp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tongp\\Documents\\Revature\\ThongphanhDuangbouddaRepo1\\P1_ThongphanhDuangboudda\\AppStore\\obj\\",
+        "outputPath": "C:\\Users\\tongp\\Documents\\Revature\\P1\\P1_ThongphanhDuangboudda\\AppStore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -32,11 +32,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\tongp\\Documents\\Revature\\ThongphanhDuangbouddaRepo1\\P1_ThongphanhDuangboudda\\BussinessLogicLayer\\BussinessLogicLayer.csproj": {
-                "projectPath": "C:\\Users\\tongp\\Documents\\Revature\\ThongphanhDuangbouddaRepo1\\P1_ThongphanhDuangboudda\\BussinessLogicLayer\\BussinessLogicLayer.csproj"
+              "C:\\Users\\tongp\\Documents\\Revature\\P1\\P1_ThongphanhDuangboudda\\BussinessLogicLayer\\BussinessLogicLayer.csproj": {
+                "projectPath": "C:\\Users\\tongp\\Documents\\Revature\\P1\\P1_ThongphanhDuangboudda\\BussinessLogicLayer\\BussinessLogicLayer.csproj"
               },
-              "C:\\Users\\tongp\\Documents\\Revature\\ThongphanhDuangbouddaRepo1\\P1_ThongphanhDuangboudda\\ModelLayer\\ModelLayer.csproj": {
-                "projectPath": "C:\\Users\\tongp\\Documents\\Revature\\ThongphanhDuangbouddaRepo1\\P1_ThongphanhDuangboudda\\ModelLayer\\ModelLayer.csproj"
+              "C:\\Users\\tongp\\Documents\\Revature\\P1\\P1_ThongphanhDuangboudda\\ModelLayer\\ModelLayer.csproj": {
+                "projectPath": "C:\\Users\\tongp\\Documents\\Revature\\P1\\P1_ThongphanhDuangboudda\\ModelLayer\\ModelLayer.csproj"
               }
             }
           }
@@ -106,18 +106,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\tongp\\Documents\\Revature\\ThongphanhDuangbouddaRepo1\\P1_ThongphanhDuangboudda\\BussinessLogicLayer\\BussinessLogicLayer.csproj": {
+    "C:\\Users\\tongp\\Documents\\Revature\\P1\\P1_ThongphanhDuangboudda\\BussinessLogicLayer\\BussinessLogicLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tongp\\Documents\\Revature\\ThongphanhDuangbouddaRepo1\\P1_ThongphanhDuangboudda\\BussinessLogicLayer\\BussinessLogicLayer.csproj",
+        "projectUniqueName": "C:\\Users\\tongp\\Documents\\Revature\\P1\\P1_ThongphanhDuangboudda\\BussinessLogicLayer\\BussinessLogicLayer.csproj",
         "projectName": "BussinessLogicLayer",
-        "projectPath": "C:\\Users\\tongp\\Documents\\Revature\\ThongphanhDuangbouddaRepo1\\P1_ThongphanhDuangboudda\\BussinessLogicLayer\\BussinessLogicLayer.csproj",
+        "projectPath": "C:\\Users\\tongp\\Documents\\Revature\\P1\\P1_ThongphanhDuangboudda\\BussinessLogicLayer\\BussinessLogicLayer.csproj",
         "packagesPath": "C:\\Users\\tongp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tongp\\Documents\\Revature\\ThongphanhDuangbouddaRepo1\\P1_ThongphanhDuangboudda\\BussinessLogicLayer\\obj\\",
+        "outputPath": "C:\\Users\\tongp\\Documents\\Revature\\P1\\P1_ThongphanhDuangboudda\\BussinessLogicLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -138,11 +138,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\tongp\\Documents\\Revature\\ThongphanhDuangbouddaRepo1\\P1_ThongphanhDuangboudda\\ModelLayer\\ModelLayer.csproj": {
-                "projectPath": "C:\\Users\\tongp\\Documents\\Revature\\ThongphanhDuangbouddaRepo1\\P1_ThongphanhDuangboudda\\ModelLayer\\ModelLayer.csproj"
+              "C:\\Users\\tongp\\Documents\\Revature\\P1\\P1_ThongphanhDuangboudda\\ModelLayer\\ModelLayer.csproj": {
+                "projectPath": "C:\\Users\\tongp\\Documents\\Revature\\P1\\P1_ThongphanhDuangboudda\\ModelLayer\\ModelLayer.csproj"
               },
-              "C:\\Users\\tongp\\Documents\\Revature\\ThongphanhDuangbouddaRepo1\\P1_ThongphanhDuangboudda\\RepositoryLayer\\RepositoryLayer.csproj": {
-                "projectPath": "C:\\Users\\tongp\\Documents\\Revature\\ThongphanhDuangbouddaRepo1\\P1_ThongphanhDuangboudda\\RepositoryLayer\\RepositoryLayer.csproj"
+              "C:\\Users\\tongp\\Documents\\Revature\\P1\\P1_ThongphanhDuangboudda\\RepositoryLayer\\RepositoryLayer.csproj": {
+                "projectPath": "C:\\Users\\tongp\\Documents\\Revature\\P1\\P1_ThongphanhDuangboudda\\RepositoryLayer\\RepositoryLayer.csproj"
               }
             }
           }
@@ -157,14 +157,6 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
-            "Microsoft.AspNetCore.Http": {
-              "target": "Package",
-              "version": "[2.2.2, )"
-            },
-            "Microsoft.AspNetCore.Http.Extensions": {
-              "target": "Package",
-              "version": "[2.2.0, )"
-            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.1, )"
@@ -185,18 +177,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\tongp\\Documents\\Revature\\ThongphanhDuangbouddaRepo1\\P1_ThongphanhDuangboudda\\ModelLayer\\ModelLayer.csproj": {
+    "C:\\Users\\tongp\\Documents\\Revature\\P1\\P1_ThongphanhDuangboudda\\ModelLayer\\ModelLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tongp\\Documents\\Revature\\ThongphanhDuangbouddaRepo1\\P1_ThongphanhDuangboudda\\ModelLayer\\ModelLayer.csproj",
+        "projectUniqueName": "C:\\Users\\tongp\\Documents\\Revature\\P1\\P1_ThongphanhDuangboudda\\ModelLayer\\ModelLayer.csproj",
         "projectName": "ModelLayer",
-        "projectPath": "C:\\Users\\tongp\\Documents\\Revature\\ThongphanhDuangbouddaRepo1\\P1_ThongphanhDuangboudda\\ModelLayer\\ModelLayer.csproj",
+        "projectPath": "C:\\Users\\tongp\\Documents\\Revature\\P1\\P1_ThongphanhDuangboudda\\ModelLayer\\ModelLayer.csproj",
         "packagesPath": "C:\\Users\\tongp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tongp\\Documents\\Revature\\ThongphanhDuangbouddaRepo1\\P1_ThongphanhDuangboudda\\ModelLayer\\obj\\",
+        "outputPath": "C:\\Users\\tongp\\Documents\\Revature\\P1\\P1_ThongphanhDuangboudda\\ModelLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -255,18 +247,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\tongp\\Documents\\Revature\\ThongphanhDuangbouddaRepo1\\P1_ThongphanhDuangboudda\\RepositoryLayer\\RepositoryLayer.csproj": {
+    "C:\\Users\\tongp\\Documents\\Revature\\P1\\P1_ThongphanhDuangboudda\\RepositoryLayer\\RepositoryLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tongp\\Documents\\Revature\\ThongphanhDuangbouddaRepo1\\P1_ThongphanhDuangboudda\\RepositoryLayer\\RepositoryLayer.csproj",
+        "projectUniqueName": "C:\\Users\\tongp\\Documents\\Revature\\P1\\P1_ThongphanhDuangboudda\\RepositoryLayer\\RepositoryLayer.csproj",
         "projectName": "RepositoryLayer",
-        "projectPath": "C:\\Users\\tongp\\Documents\\Revature\\ThongphanhDuangbouddaRepo1\\P1_ThongphanhDuangboudda\\RepositoryLayer\\RepositoryLayer.csproj",
+        "projectPath": "C:\\Users\\tongp\\Documents\\Revature\\P1\\P1_ThongphanhDuangboudda\\RepositoryLayer\\RepositoryLayer.csproj",
         "packagesPath": "C:\\Users\\tongp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tongp\\Documents\\Revature\\ThongphanhDuangbouddaRepo1\\P1_ThongphanhDuangboudda\\RepositoryLayer\\obj\\",
+        "outputPath": "C:\\Users\\tongp\\Documents\\Revature\\P1\\P1_ThongphanhDuangboudda\\RepositoryLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -287,8 +279,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\tongp\\Documents\\Revature\\ThongphanhDuangbouddaRepo1\\P1_ThongphanhDuangboudda\\ModelLayer\\ModelLayer.csproj": {
-                "projectPath": "C:\\Users\\tongp\\Documents\\Revature\\ThongphanhDuangbouddaRepo1\\P1_ThongphanhDuangboudda\\ModelLayer\\ModelLayer.csproj"
+              "C:\\Users\\tongp\\Documents\\Revature\\P1\\P1_ThongphanhDuangboudda\\ModelLayer\\ModelLayer.csproj": {
+                "projectPath": "C:\\Users\\tongp\\Documents\\Revature\\P1\\P1_ThongphanhDuangboudda\\ModelLayer\\ModelLayer.csproj"
               }
             }
           }
@@ -339,7 +331,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

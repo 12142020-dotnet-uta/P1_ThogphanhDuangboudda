@@ -729,11 +729,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tongp\\Documents\\Revature\\ThongphanhDuangbouddaRepo1\\P1_ThongphanhDuangboudda\\ModelLayer\\ModelLayer.csproj",
+      "projectUniqueName": "C:\\Users\\tongp\\Documents\\Revature\\P1\\P1_ThongphanhDuangboudda\\ModelLayer\\ModelLayer.csproj",
       "projectName": "ModelLayer",
-      "projectPath": "C:\\Users\\tongp\\Documents\\Revature\\ThongphanhDuangbouddaRepo1\\P1_ThongphanhDuangboudda\\ModelLayer\\ModelLayer.csproj",
+      "projectPath": "C:\\Users\\tongp\\Documents\\Revature\\P1\\P1_ThongphanhDuangboudda\\ModelLayer\\ModelLayer.csproj",
       "packagesPath": "C:\\Users\\tongp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tongp\\Documents\\Revature\\ThongphanhDuangbouddaRepo1\\P1_ThongphanhDuangboudda\\ModelLayer\\obj\\",
+      "outputPath": "C:\\Users\\tongp\\Documents\\Revature\\P1\\P1_ThongphanhDuangboudda\\ModelLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -792,7 +792,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

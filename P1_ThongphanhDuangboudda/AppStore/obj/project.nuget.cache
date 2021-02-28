@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "me73/s12lcjAfUNnUd7ncnnepLkoi1yYhI/5Yvz/DoSQZA8Ib5Khsmt5yex522qaACqrknXvu6UInJC2h2H/fQ==",
+  "dgSpecHash": "xtgBDJmas7zBq0IIsSqi+eB4A7DEhzmNO8Pj9bnnYCEHQnnmYks34TwXg73HkK+2iMCvB1aEXNMfK3EheSPuVg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tongp\\Documents\\Revature\\ThongphanhDuangbouddaRepo1\\P1_ThongphanhDuangboudda\\AppStore\\AppStore.csproj",
+  "projectFilePath": "C:\\Users\\tongp\\Documents\\Revature\\P1\\P1_ThongphanhDuangboudda\\AppStore\\AppStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tongp\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\tongp\\.nuget\\packages\\microsoft.aspnet.mvc\\5.2.7\\microsoft.aspnet.mvc.5.2.7.nupkg.sha512",
@@ -20,7 +20,7 @@
     "C:\\Users\\tongp\\.nuget\\packages\\microsoft.aspnetcore.hosting.abstractions\\2.2.0\\microsoft.aspnetcore.hosting.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\tongp\\.nuget\\packages\\microsoft.aspnetcore.hosting.server.abstractions\\2.2.0\\microsoft.aspnetcore.hosting.server.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\tongp\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
-    "C:\\Users\\tongp\\.nuget\\packages\\microsoft.aspnetcore.http\\2.2.2\\microsoft.aspnetcore.http.2.2.2.nupkg.sha512",
+    "C:\\Users\\tongp\\.nuget\\packages\\microsoft.aspnetcore.http\\2.2.0\\microsoft.aspnetcore.http.2.2.0.nupkg.sha512",
     "C:\\Users\\tongp\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\tongp\\.nuget\\packages\\microsoft.aspnetcore.http.extensions\\2.2.0\\microsoft.aspnetcore.http.extensions.2.2.0.nupkg.sha512",
     "C:\\Users\\tongp\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
