@@ -1,42 +1,36 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tongp\\Documents\\P1\\P1_ThogphanhDuangboudda\\P1_ThongphanhDuangboudda\\AppStore\\AppStore.csproj": {}
+    "/Users/admin/Documents/Revature/P1_ThogphanhDuangboudda/P1_ThongphanhDuangboudda/AppStore/AppStore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tongp\\Documents\\P1\\P1_ThogphanhDuangboudda\\P1_ThongphanhDuangboudda\\AppStore\\AppStore.csproj": {
+    "/Users/admin/Documents/Revature/P1_ThogphanhDuangboudda/P1_ThongphanhDuangboudda/AppStore/AppStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tongp\\Documents\\P1\\P1_ThogphanhDuangboudda\\P1_ThongphanhDuangboudda\\AppStore\\AppStore.csproj",
+        "projectUniqueName": "/Users/admin/Documents/Revature/P1_ThogphanhDuangboudda/P1_ThongphanhDuangboudda/AppStore/AppStore.csproj",
         "projectName": "AppStore",
-        "projectPath": "C:\\Users\\tongp\\Documents\\P1\\P1_ThogphanhDuangboudda\\P1_ThongphanhDuangboudda\\AppStore\\AppStore.csproj",
-        "packagesPath": "C:\\Users\\tongp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tongp\\Documents\\P1\\P1_ThogphanhDuangboudda\\P1_ThongphanhDuangboudda\\AppStore\\obj\\",
+        "projectPath": "/Users/admin/Documents/Revature/P1_ThogphanhDuangboudda/P1_ThongphanhDuangboudda/AppStore/AppStore.csproj",
+        "packagesPath": "/Users/admin/.nuget/packages/",
+        "outputPath": "/Users/admin/Documents/Revature/P1_ThogphanhDuangboudda/P1_ThongphanhDuangboudda/AppStore/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\tongp\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/admin/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\tongp\\Documents\\P1\\P1_ThogphanhDuangboudda\\P1_ThongphanhDuangboudda\\BussinessLogicLayer\\BussinessLogicLayer.csproj": {
-                "projectPath": "C:\\Users\\tongp\\Documents\\P1\\P1_ThogphanhDuangboudda\\P1_ThongphanhDuangboudda\\BussinessLogicLayer\\BussinessLogicLayer.csproj"
+              "/Users/admin/Documents/Revature/P1_ThogphanhDuangboudda/P1_ThongphanhDuangboudda/BussinessLogicLayer/BussinessLogicLayer.csproj": {
+                "projectPath": "/Users/admin/Documents/Revature/P1_ThogphanhDuangboudda/P1_ThongphanhDuangboudda/BussinessLogicLayer/BussinessLogicLayer.csproj"
               },
-              "C:\\Users\\tongp\\Documents\\P1\\P1_ThogphanhDuangboudda\\P1_ThongphanhDuangboudda\\ModelLayer\\ModelLayer.csproj": {
-                "projectPath": "C:\\Users\\tongp\\Documents\\P1\\P1_ThogphanhDuangboudda\\P1_ThongphanhDuangboudda\\ModelLayer\\ModelLayer.csproj"
+              "/Users/admin/Documents/Revature/P1_ThogphanhDuangboudda/P1_ThongphanhDuangboudda/ModelLayer/ModelLayer.csproj": {
+                "projectPath": "/Users/admin/Documents/Revature/P1_ThogphanhDuangboudda/P1_ThongphanhDuangboudda/ModelLayer/ModelLayer.csproj"
               }
             }
           }
@@ -106,43 +100,37 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\tongp\\Documents\\P1\\P1_ThogphanhDuangboudda\\P1_ThongphanhDuangboudda\\BussinessLogicLayer\\BussinessLogicLayer.csproj": {
+    "/Users/admin/Documents/Revature/P1_ThogphanhDuangboudda/P1_ThongphanhDuangboudda/BussinessLogicLayer/BussinessLogicLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tongp\\Documents\\P1\\P1_ThogphanhDuangboudda\\P1_ThongphanhDuangboudda\\BussinessLogicLayer\\BussinessLogicLayer.csproj",
+        "projectUniqueName": "/Users/admin/Documents/Revature/P1_ThogphanhDuangboudda/P1_ThongphanhDuangboudda/BussinessLogicLayer/BussinessLogicLayer.csproj",
         "projectName": "BussinessLogicLayer",
-        "projectPath": "C:\\Users\\tongp\\Documents\\P1\\P1_ThogphanhDuangboudda\\P1_ThongphanhDuangboudda\\BussinessLogicLayer\\BussinessLogicLayer.csproj",
-        "packagesPath": "C:\\Users\\tongp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tongp\\Documents\\P1\\P1_ThogphanhDuangboudda\\P1_ThongphanhDuangboudda\\BussinessLogicLayer\\obj\\",
+        "projectPath": "/Users/admin/Documents/Revature/P1_ThogphanhDuangboudda/P1_ThongphanhDuangboudda/BussinessLogicLayer/BussinessLogicLayer.csproj",
+        "packagesPath": "/Users/admin/.nuget/packages/",
+        "outputPath": "/Users/admin/Documents/Revature/P1_ThogphanhDuangboudda/P1_ThongphanhDuangboudda/BussinessLogicLayer/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\tongp\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/admin/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\tongp\\Documents\\P1\\P1_ThogphanhDuangboudda\\P1_ThongphanhDuangboudda\\ModelLayer\\ModelLayer.csproj": {
-                "projectPath": "C:\\Users\\tongp\\Documents\\P1\\P1_ThogphanhDuangboudda\\P1_ThongphanhDuangboudda\\ModelLayer\\ModelLayer.csproj"
+              "/Users/admin/Documents/Revature/P1_ThogphanhDuangboudda/P1_ThongphanhDuangboudda/ModelLayer/ModelLayer.csproj": {
+                "projectPath": "/Users/admin/Documents/Revature/P1_ThogphanhDuangboudda/P1_ThongphanhDuangboudda/ModelLayer/ModelLayer.csproj"
               },
-              "C:\\Users\\tongp\\Documents\\P1\\P1_ThogphanhDuangboudda\\P1_ThongphanhDuangboudda\\RepositoryLayer\\RepositoryLayer.csproj": {
-                "projectPath": "C:\\Users\\tongp\\Documents\\P1\\P1_ThogphanhDuangboudda\\P1_ThongphanhDuangboudda\\RepositoryLayer\\RepositoryLayer.csproj"
+              "/Users/admin/Documents/Revature/P1_ThogphanhDuangboudda/P1_ThongphanhDuangboudda/RepositoryLayer/RepositoryLayer.csproj": {
+                "projectPath": "/Users/admin/Documents/Revature/P1_ThogphanhDuangboudda/P1_ThongphanhDuangboudda/RepositoryLayer/RepositoryLayer.csproj"
               }
             }
           }
@@ -177,32 +165,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\tongp\\Documents\\P1\\P1_ThogphanhDuangboudda\\P1_ThongphanhDuangboudda\\ModelLayer\\ModelLayer.csproj": {
+    "/Users/admin/Documents/Revature/P1_ThogphanhDuangboudda/P1_ThongphanhDuangboudda/ModelLayer/ModelLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tongp\\Documents\\P1\\P1_ThogphanhDuangboudda\\P1_ThongphanhDuangboudda\\ModelLayer\\ModelLayer.csproj",
+        "projectUniqueName": "/Users/admin/Documents/Revature/P1_ThogphanhDuangboudda/P1_ThongphanhDuangboudda/ModelLayer/ModelLayer.csproj",
         "projectName": "ModelLayer",
-        "projectPath": "C:\\Users\\tongp\\Documents\\P1\\P1_ThogphanhDuangboudda\\P1_ThongphanhDuangboudda\\ModelLayer\\ModelLayer.csproj",
-        "packagesPath": "C:\\Users\\tongp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tongp\\Documents\\P1\\P1_ThogphanhDuangboudda\\P1_ThongphanhDuangboudda\\ModelLayer\\obj\\",
+        "projectPath": "/Users/admin/Documents/Revature/P1_ThogphanhDuangboudda/P1_ThongphanhDuangboudda/ModelLayer/ModelLayer.csproj",
+        "packagesPath": "/Users/admin/.nuget/packages/",
+        "outputPath": "/Users/admin/Documents/Revature/P1_ThogphanhDuangboudda/P1_ThongphanhDuangboudda/ModelLayer/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\tongp\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/admin/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -247,40 +229,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\tongp\\Documents\\P1\\P1_ThogphanhDuangboudda\\P1_ThongphanhDuangboudda\\RepositoryLayer\\RepositoryLayer.csproj": {
+    "/Users/admin/Documents/Revature/P1_ThogphanhDuangboudda/P1_ThongphanhDuangboudda/RepositoryLayer/RepositoryLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tongp\\Documents\\P1\\P1_ThogphanhDuangboudda\\P1_ThongphanhDuangboudda\\RepositoryLayer\\RepositoryLayer.csproj",
+        "projectUniqueName": "/Users/admin/Documents/Revature/P1_ThogphanhDuangboudda/P1_ThongphanhDuangboudda/RepositoryLayer/RepositoryLayer.csproj",
         "projectName": "RepositoryLayer",
-        "projectPath": "C:\\Users\\tongp\\Documents\\P1\\P1_ThogphanhDuangboudda\\P1_ThongphanhDuangboudda\\RepositoryLayer\\RepositoryLayer.csproj",
-        "packagesPath": "C:\\Users\\tongp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tongp\\Documents\\P1\\P1_ThogphanhDuangboudda\\P1_ThongphanhDuangboudda\\RepositoryLayer\\obj\\",
+        "projectPath": "/Users/admin/Documents/Revature/P1_ThogphanhDuangboudda/P1_ThongphanhDuangboudda/RepositoryLayer/RepositoryLayer.csproj",
+        "packagesPath": "/Users/admin/.nuget/packages/",
+        "outputPath": "/Users/admin/Documents/Revature/P1_ThogphanhDuangboudda/P1_ThongphanhDuangboudda/RepositoryLayer/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\tongp\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/admin/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\tongp\\Documents\\P1\\P1_ThogphanhDuangboudda\\P1_ThongphanhDuangboudda\\ModelLayer\\ModelLayer.csproj": {
-                "projectPath": "C:\\Users\\tongp\\Documents\\P1\\P1_ThogphanhDuangboudda\\P1_ThongphanhDuangboudda\\ModelLayer\\ModelLayer.csproj"
+              "/Users/admin/Documents/Revature/P1_ThogphanhDuangboudda/P1_ThongphanhDuangboudda/ModelLayer/ModelLayer.csproj": {
+                "projectPath": "/Users/admin/Documents/Revature/P1_ThogphanhDuangboudda/P1_ThongphanhDuangboudda/ModelLayer/ModelLayer.csproj"
               }
             }
           }
@@ -331,7 +307,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
         }
       }
     }
