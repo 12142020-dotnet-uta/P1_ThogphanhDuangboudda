@@ -18,44 +18,33 @@ namespace AppStore.Controllers
     {
         private readonly AppStoreContext _context;
         private readonly ProductBL _productBL;
+        private readonly StoreBl _storeBL;
 
-        public ProductsController(AppStoreContext context, ProductBL productBL)
+        public ProductsController(AppStoreContext context, ProductBL productBL, StoreBl storeBL)
         {
             _context = context;
             _productBL = productBL;
+            _storeBL = storeBL;
         }
-
+        /*
         // GET: Products
         [HttpPost]
         public async Task<IActionResult> IndexSelectStore(int? id)
         {
 
-
-           // var selectedValue = Request.Form["storeId"].ToString(); //this will get selected
-            System.Diagnostics.Debug.WriteLine("Store Id =========>Called " );
-            /*
-            if (storId > 0)
-            {
-                System.Diagnostics.Debug.WriteLine("Store Id =========> " + storId);
-            }
-            */
-            ViewData["StoreId"] = new SelectList( _context.Stores, "StoreId", "StoreId");
+            ViewData["StoreId"] = new SelectList( _storeBL.getListOfStores(), "StoreId", "StoreId");
 
             return View( _productBL.GetProductsSync(1));
         }
-        public async Task<IActionResult> Index(int storId)
+        */
+        public IActionResult Index(int storId)
         {
-            System.Diagnostics.Debug.WriteLine("Store Id ========= bbbb> " + ViewData["storeId"]);
-            System.Diagnostics.Debug.WriteLine("Store Id Xxxxxx ========= bbbb> " + storId);
-
-            //var selectedValue = Request.Form["storeId"].ToString(); //this will get selected
-            //System.Diagnostics.Debug.WriteLine("Store Id =========> " + selectedValue);
             if (storId > 0)
             {
                 System.Diagnostics.Debug.WriteLine("Store Id i=optional =========> " + storId);
             }
-            ViewData["StoreId"] = new SelectList(_context.Stores, "StoreId", "StoreId");
-            return View(_productBL.GetProductsSync(1));
+            ViewData["StoreId"] = new SelectList(_storeBL.getListOfStores(), "StoreId", "StoreId");
+            return   View(_productBL.GetProductsSync(1));
         }
 
         // GET: Products/Details/5
@@ -90,7 +79,7 @@ namespace AppStore.Controllers
         // GET: Products/Create
         public IActionResult Create()
         {
-            ViewData["StoreId"] = new SelectList(_context.Stores, "StoreId", "StoreId");
+            ViewData["StoreId"] = new SelectList(_storeBL.getListOfStores(), "StoreId", "StoreId");
             return View();
         }
 
@@ -107,9 +96,10 @@ namespace AppStore.Controllers
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["StoreId"] = new SelectList(_context.Stores, "StoreId", "StoreId", product.StoreId);
+            ViewData["StoreId"] = new SelectList(_storeBL.getListOfStores(), "StoreId", "StoreId", product.StoreId);
             return View(product);
         }
+        /*
         //store
         public async Task<IActionResult> Store1(int? id)
         {
@@ -125,11 +115,11 @@ namespace AppStore.Controllers
             {
                 return NotFound();
             }
-            ViewData["StoreId"] = new SelectList(_context.Stores, "StoreId", "StoreId", product.StoreId);
+            ViewData["StoreId"] = new SelectList(_storeBL.getListOfStores(), "StoreId", "StoreId", product.StoreId);
             return View(product);
         }
 
-
+        */
         // GET: Products/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
@@ -143,7 +133,7 @@ namespace AppStore.Controllers
             {
                 return NotFound();
             }
-            ViewData["StoreId"] = new SelectList(_context.Stores, "StoreId", "StoreId", product.StoreId);
+            ViewData["StoreId"] = new SelectList(_storeBL.getListOfStores(), "StoreId", "StoreId", product.StoreId);
             return View(product);
         }
 
@@ -190,7 +180,7 @@ namespace AppStore.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["StoreId"] = new SelectList(_context.Stores, "StoreId", "StoreId", product.StoreId);
+            ViewData["StoreId"] = new SelectList(_storeBL.getListOfStores(), "StoreId", "StoreId", product.StoreId);
             return View(product);
         }
 

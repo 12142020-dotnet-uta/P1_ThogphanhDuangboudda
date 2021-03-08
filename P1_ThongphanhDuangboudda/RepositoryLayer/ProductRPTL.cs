@@ -60,9 +60,9 @@ namespace RepositoryLayer
 
         }
         /// <summary>
-        /// This Method retun a list of product base on storeId
+        /// This Method retun a product that matched the product id passed in
         /// </summary>
-        /// <param name="storeId"></param>
+        /// <param name="productId"></param>
         public Product GetProductById(int productId)
         {
             var product = _context.Products
@@ -73,7 +73,8 @@ namespace RepositoryLayer
             return product;
         }
         /// <summary>
-        /// This Method retun a list of product base on storeId
+        /// This Method add products to cart and subtract quantity from database 
+        /// base quantity customer ordered.
         /// </summary>
         /// <param name="storeId"></param>
         public void AddToCart(int customerId, int productId, int quantity)

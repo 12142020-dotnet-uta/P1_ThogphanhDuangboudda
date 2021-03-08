@@ -31,7 +31,7 @@
 
 
 <p>
-    <a asp-action="Create">Create New</a>
+    <a asp-action="Create">Add New Products</a>
     <form asp-controller="Stores" asp-action="Index" name="selectStore" asp-route-id="" method="post">
         <div class="form-group">
 
@@ -40,7 +40,7 @@
             <select onchange="myFunction()" class="form-control" asp-items="ViewBag.StoreId"></select>
         </div>
         <div class="form-group">
-            <input type="submit" value="Select Different" class="btn btn-primary" />
+            <input type="submit" value="Shop at Specific Stores" class="btn btn-primary" />
         </div>
     </form>
 </p>

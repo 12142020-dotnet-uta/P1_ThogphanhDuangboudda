@@ -95,11 +95,11 @@ namespace BussinessLogicLayer
         }
 
         /*
-* PURPOSE : Check product availability
-*
-* RETURN : True or false
-*
-*F*/
+        * PURPOSE : Check product availability
+        *
+        * RETURN : True or false
+        *
+        *F*/
         public bool CheckProductAvailabilty(int customerId, int productId, int quantity)
         {
             System.Diagnostics.Debug.WriteLine("check products");
@@ -141,11 +141,5 @@ namespace BussinessLogicLayer
         }
         
 
-        //add order cart
-        public void AddOrder(int customerId, int storeId, Product products)
-        {
-
-
-        }
     }
 }
