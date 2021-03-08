@@ -368,6 +368,8 @@ mycode.class
 *.json
 # ignore a file type
 *.cache
+#
+*.suo
 
 # add an exception (using !) to the preceding rule to track a specific file
 !package.json
