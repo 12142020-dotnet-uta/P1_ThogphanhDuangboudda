@@ -14,7 +14,7 @@
         "outputPath": "/Users/admin/Documents/Revature/P1_ThogphanhDuangboudda/P1_ThongphanhDuangboudda/ModelLayer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/admin/.nuget/NuGet/NuGet.Config"
+          "/Users/admin/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
