@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tongp\\Documents\\Revature\\P1\\P1_ThongphanhDuangboudda\\RepositoryLayer\\RepositoryLayer.csproj": {}
+    "/Users/admin/Documents/Revature/P1_ThogphanhDuangboudda/P1_ThongphanhDuangboudda/RepositoryLayer/RepositoryLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tongp\\Documents\\Revature\\P1\\P1_ThongphanhDuangboudda\\ModelLayer\\ModelLayer.csproj": {
+    "/Users/admin/Documents/Revature/P1_ThogphanhDuangboudda/P1_ThongphanhDuangboudda/ModelLayer/ModelLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tongp\\Documents\\Revature\\P1\\P1_ThongphanhDuangboudda\\ModelLayer\\ModelLayer.csproj",
+        "projectUniqueName": "/Users/admin/Documents/Revature/P1_ThogphanhDuangboudda/P1_ThongphanhDuangboudda/ModelLayer/ModelLayer.csproj",
         "projectName": "ModelLayer",
-        "projectPath": "C:\\Users\\tongp\\Documents\\Revature\\P1\\P1_ThongphanhDuangboudda\\ModelLayer\\ModelLayer.csproj",
-        "packagesPath": "C:\\Users\\tongp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tongp\\Documents\\Revature\\P1\\P1_ThongphanhDuangboudda\\ModelLayer\\obj\\",
+        "projectPath": "/Users/admin/Documents/Revature/P1_ThogphanhDuangboudda/P1_ThongphanhDuangboudda/ModelLayer/ModelLayer.csproj",
+        "packagesPath": "/Users/admin/.nuget/packages/",
+        "outputPath": "/Users/admin/Documents/Revature/P1_ThogphanhDuangboudda/P1_ThongphanhDuangboudda/ModelLayer/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\tongp\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/admin/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -70,40 +64,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\tongp\\Documents\\Revature\\P1\\P1_ThongphanhDuangboudda\\RepositoryLayer\\RepositoryLayer.csproj": {
+    "/Users/admin/Documents/Revature/P1_ThogphanhDuangboudda/P1_ThongphanhDuangboudda/RepositoryLayer/RepositoryLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tongp\\Documents\\Revature\\P1\\P1_ThongphanhDuangboudda\\RepositoryLayer\\RepositoryLayer.csproj",
+        "projectUniqueName": "/Users/admin/Documents/Revature/P1_ThogphanhDuangboudda/P1_ThongphanhDuangboudda/RepositoryLayer/RepositoryLayer.csproj",
         "projectName": "RepositoryLayer",
-        "projectPath": "C:\\Users\\tongp\\Documents\\Revature\\P1\\P1_ThongphanhDuangboudda\\RepositoryLayer\\RepositoryLayer.csproj",
-        "packagesPath": "C:\\Users\\tongp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tongp\\Documents\\Revature\\P1\\P1_ThongphanhDuangboudda\\RepositoryLayer\\obj\\",
+        "projectPath": "/Users/admin/Documents/Revature/P1_ThogphanhDuangboudda/P1_ThongphanhDuangboudda/RepositoryLayer/RepositoryLayer.csproj",
+        "packagesPath": "/Users/admin/.nuget/packages/",
+        "outputPath": "/Users/admin/Documents/Revature/P1_ThogphanhDuangboudda/P1_ThongphanhDuangboudda/RepositoryLayer/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\tongp\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/admin/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\tongp\\Documents\\Revature\\P1\\P1_ThongphanhDuangboudda\\ModelLayer\\ModelLayer.csproj": {
-                "projectPath": "C:\\Users\\tongp\\Documents\\Revature\\P1\\P1_ThongphanhDuangboudda\\ModelLayer\\ModelLayer.csproj"
+              "/Users/admin/Documents/Revature/P1_ThogphanhDuangboudda/P1_ThongphanhDuangboudda/ModelLayer/ModelLayer.csproj": {
+                "projectPath": "/Users/admin/Documents/Revature/P1_ThogphanhDuangboudda/P1_ThongphanhDuangboudda/ModelLayer/ModelLayer.csproj"
               }
             }
           }
@@ -154,7 +142,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
         }
       }
     }
